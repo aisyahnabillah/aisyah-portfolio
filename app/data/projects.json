@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Data Science Mini Projects Collection",
+      "description": "A curated collection of data science mini projects showcasing skills in data exploration, machine learning, visualization, and analysis using Python, TensorFlow, Scikit-learn, and more. Each project includes clean code and well-documented Jupyter notebooks.",
+      "image": "/1.png",
+      "tags": ["Python", "Machine Learning", "Data Analysis", "Visualization"],
+      "githubLink": "https://github.com/aisyahnabillah/data-science-portofolio",
+      "liveDemoLink": "/work"
+    }
+  ]
+}

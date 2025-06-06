@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "name": "Frontend Development",
+      "skills": [
+        { "name": "HTML", "level": 90 },
+        { "name": "CSS", "level": 85 }
+      ]
+    },
+    {
+      "name": "Backend & Programming",
+      "skills": [
+        { "name": "Python", "level": 90 },
+        { "name": "Go", "level": 70 },
+        { "name": "SQL", "level": 85 }
+      ]
+    },
+    {
+      "name": "Data Analysis & Visualization",
+      "skills": [
+        { "name": "Pandas", "level": 85 },
+        { "name": "NumPy", "level": 80 },
+        { "name": "Matplotlib & Seaborn", "level": 80 },
+        { "name": "Tableau", "level": 80 },
+        { "name": "Google Sheets", "level": 85 }
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "skills": [
+        { "name": "Git & GitHub", "level": 85 },
+        { "name": "Jupyter Notebook", "level": 90 },
+        { "name": "VS Code", "level": 80 },
+        { "name": "Command Line", "level": 75 }
+      ]
+    }
+  ]
+}
