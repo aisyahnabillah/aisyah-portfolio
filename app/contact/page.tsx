@@ -1,8 +1,8 @@
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
-import { BiMapPin, BiPhone } from "react-icons/bi"
+import { BiMapPin } from "react-icons/bi"
 import { BsArrowLeft } from "react-icons/bs"
-import { MdMail, MdPhone } from "react-icons/md"
+import { MdMail } from "react-icons/md"
 
 const page = () => {
   return (
@@ -26,7 +26,7 @@ const page = () => {
           <div className="space-y-6">
             <p className="text-pretty text-neutral-200
             tracking-tight">
-              I'm always open to discussing new projects, creative ideas or
+              I&apos;m always open to discussing new projects, creative ideas or
               opportunities to be part of your visions. Feel free to reach out
               through my email.
             </p>

@@ -3,10 +3,7 @@ import { Button } from "@/components/ui/button";
 import {
   BiBuilding,
   BiChevronRight,
-  BiLogoGithub,
-  BiLogoInstagram,
-  BiLogoTiktok,
-  BiLogoYoutube,
+  BiLogoGithub, 
 } from "react-icons/bi";
 import { HiArrowDown } from "react-icons/hi";
 
