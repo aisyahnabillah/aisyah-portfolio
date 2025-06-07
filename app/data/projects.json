@@ -8,6 +8,15 @@
       "tags": ["Python", "Machine Learning", "Data Analysis", "Visualization"],
       "githubLink": "https://github.com/aisyahnabillah/data-science-portofolio",
       "liveDemoLink": "/work"
+    },
+    {
+      "id": 2,
+      "title": "Weather App",
+      "description": "A pastel-themed responsive weather app that fetches real-time weather data using OpenWeatherMap API. Built with HTML, CSS, and JavaScript, this project focuses on UI design and API integration.",
+      "image": "/2.png",
+      "tags": ["JavaScript", "HTML", "CSS", "API"],
+      "githubLink": "https://github.com/aisyahnabillah/30dayschallenge/tree/main/Day%2022%20-%20Weather%20App",
+      "liveDemoLink": "https://pastelweatherapp.netlify.app/"
     }
   ]
 }
