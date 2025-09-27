@@ -17,6 +17,15 @@
       "tags": ["JavaScript", "HTML", "CSS", "API"],
       "githubLink": "https://github.com/aisyahnabillah/30dayschallenge/tree/main/Day%2022%20-%20Weather%20App",
       "liveDemoLink": "https://pastelweatherapp.netlify.app/"
+    },
+    {
+      "id": 3,
+      "title": "End-to-End Churn Analysis Dashboard",
+      "description": "Complete customer churn analysis pipeline using SQL Server for ETL, Power BI for interactive dashboards, and Python Random Forest for predictive modeling. Features demographic analysis, churn pattern identification, and ML-powered customer retention insights.",
+      "image": "/3.png",
+      "tags": ["SQL Server", "Power BI", "Python", "Machine Learning", "Random Forest", "Data Analytics"],
+      "githubLink": "https://github.com/aisyahnabillah/churn-analysis-dashboard",
+      "liveDemoLink": "/work"
     }
   ]
 }
