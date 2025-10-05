@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Data Science Mini Projects Collection",
-      "description": "A curated collection of data science mini projects showcasing skills in data exploration, machine learning, visualization, and analysis using Python, TensorFlow, Scikit-learn, and more. Each project includes clean code and well-documented Jupyter notebooks.",
+      "description": "A curated collection of data science mini projects showcasing skills in data exploration, machine learning, visualization, and analysis using Python, TensorFlow, and Scikit-learn. Each project includes clean code and well-documented Jupyter notebooks.",
       "image": "/1.png",
       "tags": ["Python", "Machine Learning", "Data Analysis", "Visualization"],
       "githubLink": "https://github.com/aisyahnabillah/data-science-portofolio",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "title": "Weather App",
-      "description": "A pastel-themed responsive weather app that fetches real-time weather data using OpenWeatherMap API. Built with HTML, CSS, and JavaScript, this project focuses on UI design and API integration.",
+      "description": "A pastel-themed responsive weather app that fetches real-time weather data using the OpenWeatherMap API. Built with HTML, CSS, and JavaScript, this project emphasizes clean UI and smooth API integration.",
       "image": "/2.png",
       "tags": ["JavaScript", "HTML", "CSS", "API"],
       "githubLink": "https://github.com/aisyahnabillah/30dayschallenge/tree/main/Day%2022%20-%20Weather%20App",
@@ -21,10 +21,37 @@
     {
       "id": 3,
       "title": "End-to-End Churn Analysis Dashboard",
-      "description": "Complete customer churn analysis pipeline using SQL Server for ETL, Power BI for interactive dashboards, and Python Random Forest for predictive modeling. Features demographic analysis, churn pattern identification, and ML-powered customer retention insights.",
+      "description": "A complete customer churn analysis pipeline using SQL Server for ETL, Power BI for interactive dashboards, and Python Random Forest for predictive modeling. Features include demographic analysis, churn pattern detection, and machine learning–driven retention insights.",
       "image": "/3.png",
       "tags": ["SQL Server", "Power BI", "Python", "Machine Learning", "Random Forest", "Data Analytics"],
       "githubLink": "https://github.com/aisyahnabillah/churn-analysis-dashboard",
+      "liveDemoLink": "/work"
+    },
+    {
+      "id": 4,
+      "title": "AI Resume Analyzer",
+      "description": "An AI-powered Applicant Tracking System (ATS) built with React, TypeScript, and Puter.js. It allows users to upload resumes, store them in the cloud, and receive AI-generated ATS feedback and matching scores all handled directly in the browser with no backend setup required.",
+      "image": "/4.png",
+      "tags": ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Puter.js", "Claude Sonnet 4"],
+      "githubLink": "https://github.com/aisyahnabillah/ai-resume-analyzer",
+      "liveDemoLink": "https://ai-resume-analyzer-tau-seven.vercel.app/"
+    },
+    {
+      "id": 5,
+      "title": "Fullstack RAG Application",
+      "description": "[Still in development!] A minimal end-to-end Retrieval-Augmented Generation (RAG) web app built using FastAPI and React.js to answer user questions from medical-related documents. It integrates HuggingFace Zephyr-7B, Pinecone for vector search, and gte-small embeddings for context retrieval.",
+      "image": "/5.png",
+      "tags": ["FastAPI", "React", "LangChain", "Pinecone", "HuggingFace", "RAG"],
+      "githubLink": "https://fullstack-rag.netlify.app/",
+      "liveDemoLink": "/work"
+    },
+    {
+      "id": 6,
+      "title": "ETL Data Pipeline on Google Cloud",
+      "description": "A complete ETL (Extract, Transform, Load) data pipeline built on Google Cloud Platform. The system uses Cloud Data Fusion for orchestration and transformation, BigQuery for analytics, and integrates with GCS, Dataproc, and Airflow (Cloud Composer) for scalable data processing.",
+      "image": "/6.png",
+      "tags": ["Google Cloud", "BigQuery", "Cloud Data Fusion", "Dataproc", "Airflow", "ETL"],
+      "githubLink": "https://github.com/aisyahnabillah/ETL-Project",
       "liveDemoLink": "/work"
     }
   ]

@@ -42,7 +42,7 @@ export default function Home() {
         via-sky-300 to-blue-500">Programmer</h3>
         <p className="text-pretty tracking-tight mt-3
         text-neutral-300">
-          Hello, it&apos;s Aisyah. I&apos;m a Junior Programmer with passion in Data Science and Web Development, currently working on my own personal projects.{/*{" "}
+          Hello, it&apos;s Aisyah. I&apos;m a Junior Programmer with passion in Data Science and Web Development, currently doing research internship at Indonesia National Research and Innovation Agency.{/*{" "}
           <Link href="/contact" className="bg-clip-text
           text-transparent bg-gradient-to-r from-emerald-400
         via-sky-300 to-blue-500 font-bold opacity-90

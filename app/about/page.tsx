@@ -24,9 +24,9 @@ const page = () => {
 
           <div className="space-y-4 text-neutral-200 text-pretty
           tracking-tight">
-            <p>I’m Aisyah Nabillah, a passionate data enthusiast with a strong foundation in data analysis, visualization, and machine learning. I hold several certifications, including Data Scientist, Data Scientist Associate, Data Analyst Associate, and SQL Associate from DataCamp.</p>
-            <p>My projects showcase hands-on experience with Python, SQL, and tools like Jupyter Notebook and Tableau. I enjoy exploring real-world data, uncovering insights, and presenting findings in a clear, impactful way. I’m particularly interested in the intersection of data science and product improvement, and I’m always eager to learn new techniques and technologies.</p>
-            <p>In addition to data, I have experience in web development and speak multiple languages, including English, and Indonesian.</p>
+            <p>I’m Aisyah Nabillah, a data-driven problem solver with a strong background in data engineering, analysis, and applied machine learning. I enjoy designing efficient data pipelines, building predictive models, and turning raw information into meaningful insights that drive better decisions.</p>
+            <p>I hold several professional certifications, including the <strong>DataCamp Professional Data Scientist</strong>, <strong>BNSP Junior Web Developer</strong>, and <strong>HackerRank Software Engineer</strong>. My expertise covers Python, SQL, and cloud-based workflows for data processing and analysis.</p>
+            <p>I’m passionate about bridging the gap between data and real-world applications. Whether it’s optimizing data infrastructure, enhancing analytical workflows, or leveraging AI to uncover deeper insights, I aim to build scalable and intelligent solutions that create measurable impact and improve user experiences.</p>
           </div>
 
           <div className="space-y-4">

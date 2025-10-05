@@ -4,13 +4,19 @@
       "name": "Frontend Development",
       "skills": [
         { "name": "HTML", "level": 90 },
-        { "name": "CSS", "level": 85 }
+        { "name": "CSS", "level": 85 },
+        { "name": "JavaScript", "level": 80 },
+        { "name": "React.js", "level": 85 },
+        { "name": "Next.js", "level": 80 },
+        { "name": "TypeScript", "level": 75 },
+        { "name": "Tailwind CSS", "level": 80 }
       ]
     },
     {
       "name": "Backend & Programming",
       "skills": [
         { "name": "Python", "level": 90 },
+        { "name": "FastAPI", "level": 80 },
         { "name": "Go", "level": 70 },
         { "name": "SQL", "level": 85 }
       ]
@@ -21,17 +27,29 @@
         { "name": "Pandas", "level": 85 },
         { "name": "NumPy", "level": 80 },
         { "name": "Matplotlib & Seaborn", "level": 80 },
-        { "name": "Tableau", "level": 80 },
+        { "name": "Tableau", "level": 70 },
+        { "name": "Power BI", "level": 80 },
         { "name": "Google Sheets", "level": 85 }
       ]
     },
     {
-      "name": "Tools & Platforms",
+      "name": "Cloud & AI Tools",
+      "skills": [
+        { "name": "Google Cloud Platform", "level": 75 },
+        { "name": "BigQuery", "level": 70 },
+        { "name": "Pinecone", "level": 70 },
+        { "name": "HuggingFace API", "level": 70 },
+        { "name": "Puter.js", "level": 65 }
+      ]
+    },
+    {
+      "name": "Tools & Workflow",
       "skills": [
         { "name": "Git & GitHub", "level": 85 },
         { "name": "Jupyter Notebook", "level": 90 },
-        { "name": "VS Code", "level": 80 },
-        { "name": "Command Line", "level": 75 }
+        { "name": "VS Code", "level": 85 },
+        { "name": "Command Line", "level": 75 },
+        { "name": "Poetry", "level": 70 }
       ]
     }
   ]
